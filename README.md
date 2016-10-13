@@ -23,5 +23,7 @@ Tells you where each limb should be on the board at any given time. Just look at
   
 ### Remembers favorite settings
 Allows you to customize default settings like gameplay mode and seconds between turns.
+### Doesn't Use WiFi
+Yes, that's right! Finally, an app that doesn't require an internet connection; you can play Twister *anywhere*.
 ### Features Morgan Freeman's head as the spinner
 Like seriously, how could you not love seeing Morgan Freeman's head spin as he sooths you with his calming voice?!
