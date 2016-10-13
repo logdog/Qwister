@@ -15,11 +15,11 @@ You can even pair your iOS device to a bluetooth speaker for easy-to-hear comman
 Tells you where each limb should be on the board at any given time. Just look at the top of the screen at any moment to clearly see where each limb should be.
 #### Three different gameplay modes 
 1. Manual  
-Allows users to manually spin the spinner by simply tapping the screen, for a more traditional approach
+* Allows users to manually spin the spinner by simply tapping the screen, for a more traditional approach.
 2. Automatic  
-Allows users to have the computer call out a command every x seconds. Great for small parties where everyone wants to play.
+* Allows users to have the computer call out a command every x seconds. Great for small parties where everyone wants to play.
 3. Semi-Automatic  
-The perfect marriage of the first two modes. Users can tap the screen to spin the spinner, but when the given elapsed time has passed, the computer will automatically spin for you!
+* The perfect marriage of the first two modes. Users can tap the screen to spin the spinner, but when the given elapsed time has passed, the computer will automatically spin for you!
 #### Remembers favorite settings
 Allows you to customize default settings like gameplay mode and seconds between turns.
 #### Features Morgan Freeman's head as the spinner
