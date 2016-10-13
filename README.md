@@ -6,7 +6,7 @@ it was old and warped and kept getting stuck on left foot red?
 Well now there's no need to fear, with __Qwister__! Simply download the app from the app store, and it's all yours!
 ## Features
 Along from always being reliable and at your fingertips, __Qwister__ has some innovative features that even a perfect Twister Spinner doesn't have. These include:
-### Smart Spinners.
+### Smart Spinners
 Spinners won't say left-foot-red if your foot is already on left-foot-red! This allows for faster game play and less confusion amoung players.
 ### Text-to-speech techonology 
 iOS 7 features allow for the app to call out commands hands-free, meaning you can finally play Twister by yourself!
