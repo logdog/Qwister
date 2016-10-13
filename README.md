@@ -7,7 +7,7 @@ Well now there's no need to fear, with __Qwister__! Simply download the app from
 ## Features
 Along from always being reliable and at your fingertips, __Qwister__ has some innovative features that even a perfect Twister Spinner doesn't have. These include:
 ### Smart Spinners
-Spinners won't say left-foot-red if your foot is already on left-foot-red! This allows for faster game play and less confusion amoung players.
+Spinners won't say right-hand-yellow if your hand is already on right-hand-yellow! This allows for faster game play and less confusion amoungst players.
 ### Text-to-speech techonology 
 iOS 7 features allow for the app to call out commands hands-free, meaning you can finally play Twister by yourself!
 You can even pair your iOS device to a bluetooth speaker for easy-to-hear commands.
