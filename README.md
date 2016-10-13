@@ -24,4 +24,4 @@ Tells you where each limb should be on the board at any given time. Just look at
 ### Remembers favorite settings
 Allows you to customize default settings like gameplay mode and seconds between turns.
 ### Features Morgan Freeman's head as the spinner
-Like seriously, how could you not love seeing Morgan Freeman's head spin as he sooths you with his calming voice!
+Like seriously, how could you not love seeing Morgan Freeman's head spin as he sooths you with his calming voice?!
